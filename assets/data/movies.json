@@ -1,0 +1,102 @@
+{
+    "results": [
+        {
+            "id": 399566,
+            "original_title": "Iphone 13",
+            "prix": "1000 €",
+            "overview": "Il embarque le processeur A15 Bionic, 128 Go de stockage au minimum et un double module caméra avec grand-angle et ultra grand-angle. Son écran OLED mesure 6,1 pouces.",
+            "poster_path": "/assets/img/iphone13pro.png",
+            "vote_average": 8.3
+        },
+        {
+            "id": 615678,
+            "original_title": "Iphone X",
+            "prix": "500 €",
+            "overview": "Il est équipé d'un écran de 6,1 pouces OLED HDR 60 Hz, d'un double capteur photo avec ultra grand-angle et d'un SoC Apple A14 Bionic compatible 5G (sub-6 GHz).",
+            "poster_path": "/assets/img/iphone10.png",
+            "vote_average": 5.8
+        },
+        {
+            "id": 460465,
+            "original_title": "Iphone 7",
+            "prix": "700 €",
+            "overview": "Successeur direct de l'iPhone XR, il dispose d'un écran LCD de 6,1 pouces, un SoC Apple A13 Bionic et un double capteur photo arrière.",
+            "poster_path": "/assets/img/iphone7.png",
+            "vote_average": 7.3
+        },
+        {
+            "id": 791373,
+            "original_title": "MacBook Pro",
+            "prix": "2000 €",
+            "overview": "Porté par un nouveau design et un écran vraiment incroyable, exceptionnel à plus d’un titre, il en donne de brefs aperçus et pourvoit surtout aux attentes passées et présentes.",
+            "poster_path": "/assets/img/macbookpro.png",
+            "vote_average": 8.5
+        },
+        {
+            "id": 634528,
+            "original_title": "MacBook Air",
+            "prix": "1800 €",
+            "overview": "Adopte la dernière génération de processeurs Intel, dope grandement son autonomie, accroît sa puissance graphique mais nous prive toujours d'un écran Retina.",
+            "poster_path": "/assets/img/macbookair.png",
+            "vote_average": 7.1
+        },
+        {
+            "id": 412656,
+            "original_title": "Imac",
+            "prix": "5000 €",
+            "overview": " Il est également équipé d'un nouvel écran mini-LED de 14,2 pouces. Pour les connectiques, il dispose de 3 ports USB C compatibles Thunderbolt 4, d'un lecteur de carte SD, d'un port HDMI.",
+            "poster_path": "/assets/img/imac.png",
+            "title": "Chaos Walking",
+            "vote_average": 7.4
+        },
+        {
+            "id": 615457,
+            "original_title": "Ipad Air",
+            "prix": "800 €",
+            "overview": " Il reprend le nouveau format de l'iPad Pro en remplaçant le capteur Face ID par un capteur d'empreinte sur le bouton d'alimentation. Il est compatible avec l'Apple Pencil de seconde génération.",
+            "poster_path": "/assets/img/ipadair.png",
+            "title": "Nobody",
+            "vote_average": 8.6
+        },
+        {
+            "id": 527774,
+            "original_title": "Ipad Mini",
+            "prix": "300 €",
+            "overview": "Elle reprend les évolutions introduites pas l'iPad Air 2020 dans un format plus compact. Il est équipé d'un écran de X pouces, d'un SoC Apple A14 Bionic compatible 5G et d'un port USB C.",
+            "poster_path": "/assets/img/ipadmini.png",
+            "vote_average": 8.3
+        },
+        {
+            "id": 632357,
+            "original_title": "Ipad Pro",
+            "prix": "1500 €",
+            "overview": "Il est équipé d'un écran de 12,9 pouces miniLED et d'un SoC Apple M1 gravé en 5 nm. L'iPad Pro 2021 est compatible avec la gamme d'accessoire Magic pour iPad et avec le Pencil 2e génération.",
+            "poster_path": "/assets/img/ipadpro.png",
+            "vote_average": 5.5
+        },
+        {
+            "id": 664767,
+            "original_title": "Apple Watch Nike",
+            "prix": "200 €",
+            "overview": "Annoncée le 15 septembre 2020, elle est capable de mesurer le taux d'oxygène dans le sang et introduit de nouvelles couleurs bleu et rouge.",
+            "poster_path": "/assets/img/applewathnike.png",
+            "vote_average": 8.4
+        },
+        {
+            "id": 793723,
+            "original_title": "Apple Watch SE",
+            "prix": "300 €",
+            "overview": "Elle propose le même format et le même écran que l'Apple Watch Series 6, avec un processeur très légèrement moins performant et sans capteur ECG ou du taux d'oxygène dans le sang.",
+            "poster_path": "/assets/img/applewatchse.png",
+            "vote_average": 6
+        },
+        {
+            "id": 458576,
+            "original_title": "Apple Watch Series 7",
+            "prix": "400 €",
+            "overview": "Elle introduit un nouvel écran OLED de 41 ou 45 mm annoncé plus résistant par Apple. Elle propose les mêmes fonctionnalités liées à la santé et au sport que la Series 6.",
+            "poster_path": "/assets/img/applewatchseries7.png",
+            "vote_average": 7.1
+        }
+    ]
+}
